@@ -1,7 +1,7 @@
 {
-  "name": "tja",
-  "version": "0.1.3",
-  "description": "JavaScript parser for the TJA (Taikojiro) chart format.",
+  "name": "@hotsixman/tja",
+  "version": "0.1.0",
+  "description": "JavaScript parser for the TJA (Taikojiro) chart format. Temporary library till original tja library update",
   "main": "dist/index.js",
   "files": [
     "/dist"
